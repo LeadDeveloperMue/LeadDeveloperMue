@@ -2,59 +2,45 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGq9D9LdhZJ-w/profile-displaybackgroundimage-shrink_350_1400/B4DZqTL97OGQAY-/0/1763405982551?e=1771459200&v=beta&t=mQa8s_ftPxjL0dh6dYtHzNVZ82phoZdgrCx-q4mL3Gs)
 
 ## Hi, I’m **Munyaradzi L. Kavhai** 👋  
-**Digital Marketer | Web Developer | Tech Enthusiast**
+**Digital Marketer | Web Developer | BASc IT Student**
 
-I design and build digital experiences that help brands grow online. I combine creativity and technology to deliver practical, results‑driven solutions for businesses and individuals.
+I design and build digital experiences that help brands grow online. I combine creativity and technology to deliver practical, results-driven solutions for businesses and individuals.
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack & Skills
 
 #### 💻 Web Development
-- HTML5 ![HTML](https://progress-bar.dev/95/?title=HTML5&color=ff6c37)
-- CSS3 ![CSS](https://progress-bar.dev/90/?title=CSS3&color=1572b6)
-- JavaScript ![JS](https://progress-bar.dev/85/?title=JavaScript&color=f7df1e)
-- jQuery ![jQuery](https://progress-bar.dev/70/?title=jQuery&color=0769ad)
-- WordPress ![WP](https://progress-bar.dev/80/?title=WordPress&color=21759b)
-- Responsive Design ![Responsive](https://progress-bar.dev/90/?title=Responsive&color=4fc08d)
+![HTML5](https://img.shields.io/badge/HTML5-95%25-ff6c37?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-70%25-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-80%25-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-90%25-4FC08D?style=for-the-badge)
 
 #### 📈 Digital Marketing
-- SEO ![SEO](https://progress-bar.dev/90/?title=SEO&color=ff6c37)
-- Content Strategy ![Content](https://progress-bar.dev/85/?title=Content+Strategy&color=6f42c1)
-- Social Media ![Social](https://progress-bar.dev/80/?title=Social+Media&color=1da1f2)
-- Google Analytics ![Analytics](https://progress-bar.dev/85/?title=Google+Analytics&color=f9ab00)
-- Email Marketing ![Email](https://progress-bar.dev/80/?title=Email+Marketing&color=34a853)
-- Lead Generation ![Lead](https://progress-bar.dev/75/?title=Lead+Generation&color=ffbc05)
+![SEO](https://img.shields.io/badge/SEO-90%25-FF6C37?style=for-the-badge)
+![Content Strategy](https://img.shields.io/badge/Content_Strategy-85%25-6f42c1?style=for-the-badge)
+![Social Media](https://img.shields.io/badge/Social_Media-80%25-1DA1F2?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-85%25-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email_Marketing-80%25-34A853?style=for-the-badge)
+![Lead Generation](https://img.shields.io/badge/Lead_Generation-75%25-FFBC05?style=for-the-badge)
 
 #### ⚙️ Tools & Platforms
-- Netlify ![Netlify](https://progress-bar.dev/80/?title=Netlify&color=00c7b7)
-- Canva ![Canva](https://progress-bar.dev/85/?title=Canva&color=00c4cc)
-- Figma ![Figma](https://progress-bar.dev/80/?title=Figma&color=f24e1e)
-- Analytics Tools ![Analytics Tools](https://progress-bar.dev/80/?title=Analytics&color=ff9900)
-- CRM Tools ![CRM](https://progress-bar.dev/75/?title=CRM&color=0052cc)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Repo |
-|---------|-------------|------|
-| **Portfolio Website** | Modern personal portfolio showcasing web & marketing skills | [![Repo](https://img.shields.io/badge/View_Repo-000?style=for-the-badge&logo=github)](https://github.com/LeadDeveloperMue/portfolio) |
-| **Marketing Landing Pages** | Campaign pages for business marketing | [![Repo](https://img.shields.io/badge/View_Repo-000?style=for-the-badge&logo=github)](https://github.com/LeadDeveloperMue/marketing-pages) |
-| **Responsive Templates** | Multi-device ready web templates | [![Repo](https://img.shields.io/badge/View_Repo-000?style=for-the-badge&logo=github)](https://github.com/LeadDeveloperMue/responsive-templates) |
+![Netlify](https://img.shields.io/badge/Netlify-80%25-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-85%25-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-80%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Analytics Tools](https://img.shields.io/badge/Analytics-80%25-FF9900?style=for-the-badge)
+![CRM Tools](https://img.shields.io/badge/CRM-75%25-0052CC?style=for-the-badge)
 
 ---
 
 ### 📫 Contact Me
 
-- **Email:** munyarkavhai@gmail.com  
-- **Phone / WhatsApp:** +263 772 333 444  
+- **Email:** lead.developer184@gmail.com  
+- **Phone / WhatsApp:** +263 719890766
 - **LinkedIn:** [https://linkedin.com/in/munyah-l-kavhai](https://linkedin.com/in/munyah-l-kavhai)  
 - **Portfolio:** [https://mlkdigital.netlify.app](https://mlkdigital.netlify.app)  
 
----
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeadDeveloperMue&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeadDeveloperMue&layout=compact&theme=radical)
